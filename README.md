@@ -1,8 +1,10 @@
 # VoiceDrop
 
+
 A free, offline voice dictation tool for Windows. Press a hotkey, speak, and your words appear in any text field — browser, Word, email, or any application. No subscriptions, no cloud processing, and no data leaves your machine.
 
-Built as a free alternative to Wispr Flow using OpenAI's Whisper model running fully locally.
+
+Engineered a fully offline voice dictation tool to replace  commercial software, with real-time silence detection, threading-safe audio capture, and Whisper hallucination filtering. Built as a free alternative to Wispr Flow using OpenAI's Whisper model running fully locally.
 
 ## Features
 
