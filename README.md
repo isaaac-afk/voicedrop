@@ -52,7 +52,6 @@ python dictate.py
 ```
 
 **Note:** Run Command Prompt as Administrator so the global hotkey can be registered system-wide.
-
 The first run will download the Whisper model (~140MB for `base`). This is a one-time download.
 
 ## Usage
